@@ -5,12 +5,7 @@ permalink: /research/
 tags: research
 ---
 
-I am trained as a historical theologian
-
-## specialization & competency
-**areas of specialization**: historical theology, medieval theology, Franciscan theology, christology, medieval apocalypticism, theologies of history
-
-**areas of competence**: trinitarian theology, modern doctrine of God, eucharistic theology, secularism
+I am trained as a historical and systematic theologian, with specializations in the medieval period (particularly early mendicant theologies) and christology. I also have competencies in patristic theology, trinitarian theology, modern doctrines of God, medieval apocalypticism and Joachimism, and theologies of history.
 
 ## selected publications
 Of Shawn M. Colberg, *The Wayfarer’s End: Bonaventure & Aquinas on Divine Rewards in Scripture & Sacred Doctrine* (CUA Press, 2020), in *Nova et Vetera* (forthcoming).
