@@ -6,6 +6,8 @@ summary: "Don’t you think maybe they are the same thing? Love and attention?"
 categories: theology
 ---
 
+![wedding-hands](/images/wedding-hands.jpg)
+
 In the very year of our engagement, *Lady Bird* was released.  
 Toward the end of this magnanimous film  
 the titular character meets with her English teacher, Sister Sarah Joan,  
