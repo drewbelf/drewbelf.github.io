@@ -7,6 +7,8 @@ tags: research
 
 I am trained as a historical and systematic theologian, with specializations in the medieval period (particularly early mendicant theologies) and christology. I also have competencies in patristic theology, trinitarian theology, modern doctrines of God, medieval apocalypticism and Joachimism, and theologies of history.
 
+My dissertation, which I am currently writing, studies the place of the *Summa halensis* in the development of scholastic christology.
+
 ## selected publications
 Of Shawn M. Colberg, *The Wayfarer’s End: Bonaventure & Aquinas on Divine Rewards in Scripture & Sacred Doctrine* (CUA Press, 2020), in *Nova et Vetera* (forthcoming).
 
