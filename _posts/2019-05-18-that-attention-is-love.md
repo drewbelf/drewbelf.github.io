@@ -103,9 +103,9 @@ Saint Francis of Assisi is attributed as saying,
 “Preach the Gospel always;  
 when necessary, use words.”  
 Though he surely uttered no such thing,  
-Jacqueline lives that proverb ceaselessly.  
-Indulge me still further.
+Jacqueline lives that proverb ceaselessly.
 
+Indulge me still further.  
 Marriage,  
 as a sacrament in the Catholic sense,  
 is shaped and normed by the cross.  
