@@ -15,7 +15,7 @@ Of Shawn M. Colberg, *The Wayfarer’s End: Bonaventure & Aquinas on Divine Rewa
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
 ## recent & upcoming talks
-"Who Is *iste homo* Jesus? A Halensian Contribution." *[Christ among the Disciples](https://www.christamongthedisciplines.com)*. November 18–25, 2020.
+"Who Is *iste homo* Jesus? A Halensian Contribution." *[Christ among the Disciplines](https://www.christamongthedisciplines.com)*. November 18–25, 2020.
 
 "History in Crisis? Augustine's Reading of John's Apocalypse." *Patristic, Medieval, and Renaissance Conference*. Villanova University. October 16–18, 2020.
 
