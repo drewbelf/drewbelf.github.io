@@ -5,10 +5,6 @@ permalink: /teaching/
 tags: teaching
 ---
 
-# teaching philosophy
-*coming soon*
+To study theology is to ask questions of God and religion and to think critically about the proffered answers. Students of theology don’t do this unaided; in the archive that is the history of Christian theology sits an enormous catalog of questions, approaches, answers, and discussions from a diversity of thinkers, traditions, and communities. My teaching aims, in part, to show students how to explore that archive and put its materials to use as they navigate these fundamental questions of human existence and divine reality. In this way, I convey to my students the wide diversity of Christian thinking about the divine while also modeling intellectual work as always embedded in a community or tradition. Ultimately, as a teacher I invite my students to inhabit, if only provisionally, this community of thinking about God and religion, asking its questions, assessing its answers, and communicating these ideas effectively.
 
-# experience
-* TA in Perspectives on Western Culture II (spring 2020)
-* TA in God, Self, and Society (fall 2019)
-* TA in Introduction to Christian Theology I & II (2018–9)
+I have served as a Teaching Assistant to faculty members of Boston College's theology department in courses titled "Introduction to Christian Theology," "God, Self, and Society," and "Perspectives on Western Culture."
