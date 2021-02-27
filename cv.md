@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: cv
+style: kjhealy
 ---
 # Andrew Gertner Belfield
 doctoral candidate at Boston College, trained in historical and systematic theology
