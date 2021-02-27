@@ -7,7 +7,7 @@ tags: about
 
 ![me](/images/me.jpg)
 
-I am Andrew Gertner Belfield, a doctoral candidate at Boston College who studies historical and systematic theology. Now in my fourth year in the doctoral program, I'm writing a dissertation on early Franciscan scholastic christology. For more on my research, see my [research page](/research/).
+I am Andrew Gertner Belfield, a doctoral candidate at Boston College who studies historical and systematic theology. Now in my fourth year in the doctoral program, I'm writing a dissertation on early Franciscan scholastic christology. For more on my research, see my [research page](/research/) and my full *[curriculum vitae](http://andrewbelfield.com/markdown-cv/)*.
 
 In addition to my work as a student, I have also served Boston College's theology department as a [Teaching Assistant](/teaching/), and I currently serve Boston College's theology graduate program as its Graduate Assistant.
 
