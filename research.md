@@ -9,4 +9,4 @@ I am trained as a historical and systematic theologian, with specializations in 
 
 My dissertation studies the place of the *Summa fratris Alexandri*, a collaborative work of the Franciscans at the University of Paris during the early 1240s, in the development of scholastic christology.
 
-My full *curriculum vitae* is available [here](http://andrewbelfield.com/markdown-cv/).
+My full *curriculum vitae* is available [here](http://andrewbelfield.com/cv/).
