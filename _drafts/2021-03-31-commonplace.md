@@ -30,3 +30,6 @@ your own life depends on it;
 and, when the time comes to let it go  
 to let it go."  
 ---Mary Oliver
+
+"Est enim dicere divinam essentiam finire creaturas, in quantum ab ipsa sunt ut a principio et in quantum ad ipsam ordinantur ut ad finem et sunt secundum ipsam. Nam, sicut dicit Trismegistus, «divina essentia est sicut sphaera intelligibilis, cuius centrum est ubique, circumferentia vero nusquam»."  
+---*Summa halensis*
