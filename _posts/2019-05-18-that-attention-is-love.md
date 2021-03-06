@@ -20,7 +20,7 @@ at the borders of her hometown
 and dreaming of going to college  
 where there is, as she puts it, “culture”—  
 somewhere like New York City,  
-or at least, she says naively, Connecticut  
+or at least, she says naively, Connecticut.  
 Unwilling to call what she feels for Sacramento love,  
 Lady Bird demurs, saying,  
 “I guess I pay attention.”
@@ -116,12 +116,12 @@ In our sacramental dying and rising
 is anticipated our physical dying and rising.  
 Every time a sinner submits to baptism’s watery grave,  
 every time the one bloody sacrifice is celebrated  
-with the unbloody words this is my body,  
+with the unbloody words *hoc est corpus meum*,  
 every time two persons die to their selves  
 and consent to the union in which they rise together as one,  
 Death’s claim over us is broken.  
 This is God’s wisdom, foolishness to the world,  
-that by death itself God should bring life.  
+that by Death itself God should bring life.  
 Rightly does the Apostle Paul—and do we—  
 rejoice with words mocking:  
 “Where, O Death, is your sting?”
