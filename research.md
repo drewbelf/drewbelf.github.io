@@ -11,4 +11,4 @@ I am trained as a historical and systematic theologian, with specializations in 
 
 My dissertation studies the place of the *Summa fratris Alexandri*, a collaborative work of the Franciscans at the University of Paris during the early 1240s, in the development of scholastic christology.
 
-The image here, taken from a 1647 edition of a commenatry on the Apocalypse attributed to Alexander of Hales, depicts Alexander teaching Thomas Aquinas and Bonaventure.
+The image here, taken from a 1647 edition of a commentary on the Apocalypse attributed to Alexander of Hales, depicts Alexander teaching Thomas Aquinas and Bonaventure.
