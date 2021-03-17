@@ -33,3 +33,18 @@ to let it go."
 
 "Est enim dicere divinam essentiam finire creaturas, in quantum ab ipsa sunt ut a principio et in quantum ad ipsam ordinantur ut ad finem et sunt secundum ipsam. Nam, sicut dicit Trismegistus, «divina essentia est sicut sphaera intelligibilis, cuius centrum est ubique, circumferentia vero nusquam»."  
 ---*Summa halensis*
+
+"To know is primarily and principally to seize and embrace within yourself an *other* who is capable of seizing and embracing you: it is to live by the life of another living being."  
+---Pierre Rousselot
+
+"la luz de la mañana"  
+---Barbara Bregstein's *Complete Spanish Step-by-Step*
+
+"That morning it was an old hymn in praise of farming. I liked the shape of it on my lips, the soothing lists of plants and crops, of crofts and cotes, herds and flocks, and the stars that wheeled above them."  
+---Madeline Miller
+
+"By his memory, Augustine discovers that his life opens up to reveal Your own; through memory, he meets You the Creator, Sustainer, and Redeemer. He remembers, and he finds himself in the story of Your life with the world."  
+---Natalie Carnes
+
+"To tell other people what our lives mean is to draw them deeper into ourselves, and to listen to what someone tells us their life means is to be drawn deeper into the mystery of both their humanity and humanity’s maker. To impose upon another the meaning of their life is, by contrast, a kind of pretense at divinity. It is to tell another person something that only God can tell them, to claim the ultimate interpretive authority over experiences that do not belong to us. In a final sense, it is to do violence to someone else’s humanity and to the very purpose of language, for we have language precisely in order to invite others into our own interiority, to tell them our story."  
+---Daniel Walden
