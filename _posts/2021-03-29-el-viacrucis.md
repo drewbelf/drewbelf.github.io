@@ -45,7 +45,7 @@ V. El sacrificio verdadero es un corazón penitente.
 ℟. Dios, tú no despreciarás un corazón penitente y roto.
 
 ## the fifth station. Simon of Cyrene helps Jesus carry his cross
-![an alfombra in Guatemala](/images/alfombra2.JPG){: .img-left} **Cuando el pobre crea en la pobre**  
+![an alfombra in Guatemala](/images/alfombra.JPG){: .img-left} **Cuando el pobre crea en la pobre**  
 **Ya podremos cantar libertad**  
 **Cuando la/el pobre crea en el/la pobre,**  
 **Construiremos la fraternidad**  
