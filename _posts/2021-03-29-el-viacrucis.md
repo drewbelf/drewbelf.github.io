@@ -8,6 +8,8 @@ categories: theology
 
 Holy Week of any year---that week of prayer and fasting ordered to the cross and, eventually, the empty tomb—always has a nearness to the first Holy Week, as the drama of the liturgy moves modern-day Christians through the drama of the passion. Holy Week 2020, however, seemed especially near. The reality of coronavirus was setting in, along with the bitter realization it would be a long time before we could safely gather with family, friends, and religious communities. People all around the world were (and still are) dying, and the coronavirus crisis exacerbated existing injustices in our world: poverty, lack of access to healthcare, racism. It was not hard to imagine the disciples' despair, their feeling that the world crumbled before them.
 
+![a community celebration of the Sations of the Cross, walking along the main path in Cabaña](/images/el-viacrucis.JPG)
+
 I was (and am) fortunate to live in an intentional community, committed to shared living in an interreligious space. It was around this time last year that we began celebrating liturgy together regularly—weekly prayer services, a Passover Seder, and the Easter Triduum.
 
 Laurel Marshall Potter—colleague, friend, housemate—and I composed the following prayer service for our community. Our community—Jews and Christians, Salvadorans and Americans and Koreans, students and young professionals—gathered on Good Friday 2020 to reflect on the movement of the passion and what it revealed of the suffering of our world. I am grateful to Laurel for permitting me to share this service on this site; I am grateful, too, to our community for affording us a space for prayer and reflection.
@@ -43,7 +45,7 @@ V. El sacrificio verdadero es un corazón penitente.
 ℟. Dios, tú no despreciarás un corazón penitente y roto.
 
 ## the fifth station. Simon of Cyrene helps Jesus carry his cross
-**Cuando el pobre crea en la pobre**  
+![an alfombra in Guatemala](/images/alfombra2.JPG){: .img-left} **Cuando el pobre crea en la pobre**  
 **Ya podremos cantar libertad**  
 **Cuando la/el pobre crea en el/la pobre,**  
 **Construiremos la fraternidad**  
@@ -128,11 +130,13 @@ The disciples were sure it was over. Even if Jesus’s voice echoed in their hea
 
 As the disciples could not imagine a future for Jesus beyond his death, neither can we imagine a future beyond the cultures of death that constrain our lives.
 
+![the fifteenth station in Iglesia El Rosario in San Salvador](/images/el-rosario.JPG){: .img-right}
+
 Walking this way of the cross with Jesus, we see the pervasiveness of this death culture. We have seen the seemingly insurmountable power of injustice, and we have witnessed our own complicity in that injustice. It seems foolish to hope that it could be otherwise, that we could be freed of the structures of sin that constrain our freedom and flourishing, that the systems of injustice could be dismantled. Who will beat the guns into plowshares when there are wars to be fought?
 
 Yet this is our hope. This is what God has promised, again and again in the Law and in the Prophets and in the Gospels. We know not when or how, but we do know this—God always finds the unlooked-for solution. God always creates new realities and paradigms beyond our imaginative capacities to be in relationship with us. This is our hope, foolish though it may seem, that God will do good on God’s promise. On this darkest of days, out of the very depths of despair, we can but cry our foolish hope: “Hosanna, hosanna in the highest.”
 
-℟. Glory be to God, now and forever. Amen.
+℟. Glory be to God, now and forever. Amen. 
 
 ---
 [^1]: This story is Laurel's.
