@@ -1,7 +1,7 @@
 ---
 layout: post
 title: commonplace book, March 2021
-date: 2021-03-31 16:30
+date: 2021-03-31
 summary: quotations collected during the month of March in A.D. 2021
 categories: theology
 ---
@@ -47,4 +47,19 @@ to let it go."
 ---Natalie Carnes
 
 "To tell other people what our lives mean is to draw them deeper into ourselves, and to listen to what someone tells us their life means is to be drawn deeper into the mystery of both their humanity and humanity’s maker. To impose upon another the meaning of their life is, by contrast, a kind of pretense at divinity. It is to tell another person something that only God can tell them, to claim the ultimate interpretive authority over experiences that do not belong to us. In a final sense, it is to do violence to someone else’s humanity and to the very purpose of language, for we have language precisely in order to invite others into our own interiority, to tell them our story."  
----Daniel Walden
+---Daniel Walden, [on gender and self-narration](https://www.commonwealmagazine.org/gender-sex-and-other-nonsense)
+
+"It (charity) is as strong as death, nay stronger than death for charity forced even death itself to die in the death of the Redeemer. O insuperable virtue of charity, which indeed conquered the insuperable Himself; and Him to whom all are subject, you in some way subjected to all, when God, overcome by love, humbled Himself, taking the form of a servant, and was made not only a human, but the reproach of humans and the castoff of the people! And if it was strong against God, how much more will it prevail against humans?"  
+---Richard of St. Victor, quoted by Pierre Rousselot
+
+"*Discovery* is the unending task of theology in its search for faith, and it is in the Christian experience that it finds its 'given'."  
+---M. D. Chenu
+
+"For ultimately the choice to abandon speech is a *reasoned* choice, and the desire to reason one’s way through life is precisely that---a desire. What God has brought together in the human spirit, no one should attempt to tear asunder."  
+---Roberto J. De La Noval, [on *Heroes of the Fourth Turning*](https://churchlifejournal.nd.edu/articles/the-kids-arent-alt-lite/)
+
+"There’s a reason the most visible gothic tradition in American culture comes from the South: a place where history cannot be ignored or escaped. The deformations produced through history, through landscape, through bigotry, through poverty, through even the extremes of the weather---these are the subjects of 'Southern gothic.'"  
+---B. D. McClay, [on American gothic](https://thebaffler.com/latest/american-gothic-mcclay)
+
+"The theologian is the person who dares to speak the Word of God in human terms."  
+---M. D. Chenu

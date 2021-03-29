@@ -1,16 +1,16 @@
 ---
 layout: post
-title: el vía crucis
-date: 2021-04-02 15:00
+title: el víacrucis
+date: 2021-03-29 15:00
 summary: The God of Abraham, Isaac, and Jacob, the God of the prophets, the God of the living, the God of mercy and justice walks the way of death in solidarity with all who suffer, as one who suffers, that they might suffer no more
 categories: theology
 ---
 
-Holy Week of any year—that week of prayer and fasting ordered to the cross and, eventually, the empty tomb—always has a nearness to the first Holy Week, as the drama of the liturgy moves modern-day Christians through the drama of the passion. Holy Week 2020, however, seemed especially near. The reality of coronavirus was setting in, along with the bitter realization it would be a long time before we could safely gather with family, friends, and religious communities. People all around the world were (and still are) dying, and the coronavirus crisis exacerbated existing injustices in our world: poverty, lack of access to healthcare, racism. It was not hard to imagine the disciples' despair, their feeling that the world crumbled before them.
+Holy Week of any year---that week of prayer and fasting ordered to the cross and, eventually, the empty tomb—always has a nearness to the first Holy Week, as the drama of the liturgy moves modern-day Christians through the drama of the passion. Holy Week 2020, however, seemed especially near. The reality of coronavirus was setting in, along with the bitter realization it would be a long time before we could safely gather with family, friends, and religious communities. People all around the world were (and still are) dying, and the coronavirus crisis exacerbated existing injustices in our world: poverty, lack of access to healthcare, racism. It was not hard to imagine the disciples' despair, their feeling that the world crumbled before them.
 
 I was (and am) fortunate to live in an intentional community, committed to shared living in an interreligious space. It was around this time last year that we began celebrating liturgy together regularly—weekly prayer services, a Passover Seder, and the Easter Triduum.
 
-[Laurel Marshall Potter](http://bc.academia.edu/LaurelMarshall)—colleague, friend, housemate—and I composed the following prayer service for our community. Our community—Jews and Christians, Salvadorans and Americans and Koreans, students and young professionals—gathered on Good Friday 2020 to reflect on the movement of the passion and what it revealed of the suffering of our world. I am grateful to Laurel for permitting me to share this service on this site; I am grateful, too, to our community for affording us a space for prayer and reflection.
+Laurel Marshall Potter—colleague, friend, housemate—and I composed the following prayer service for our community. Our community—Jews and Christians, Salvadorans and Americans and Koreans, students and young professionals—gathered on Good Friday 2020 to reflect on the movement of the passion and what it revealed of the suffering of our world. I am grateful to Laurel for permitting me to share this service on this site; I am grateful, too, to our community for affording us a space for prayer and reflection.
 
 ## opening prayer
 The way of the cross is an apocalyptic event in that it is a revelatory event. The cross reveals the injustices of our world, the manner in which those in power gain and keep power, the complicity each of us has in communal sin. Yet it reveals too the depths of God’s love. It is not God’s will that this injustice persist; it is not God’s will that the powerful remain so; it is not God’s will that the guilt of sin stains us forever. Jesus’s long walk to Golgotha makes manifest to us who God is: the God of Abraham, Isaac, and Jacob, the God of the prophets, the God of the living, the God of mercy and justice. This God walks the way of death in solidarity with all who suffer, as one who suffers, that they might suffer no more. The way ends on the cross in death—and by that very death, so ends death itself.
@@ -73,7 +73,7 @@ V. El sacrificio verdadero es un corazón penitente.
 ℟. Dios, tú no despreciarás un corazón penitente y roto.
 
 ## the eighth station. Jesus meets the women of Jerusalem.
-Jerusalem was weak compared to Rome, but strong compared to Nazareth. These privileged women, residents of a politically strategic city, express culturally-sanctioned horror and pity for the poor radical from backwater Galilee. They play their role in the drama of Roman crucifixions. Jesus says to them, “Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.” Their sense of security is an illusion, and their false pity is damning. We are all both complicit and dehumanized by the culture of death.
+Jerusalem was weak compared to Rome, but strong compared to Nazareth. These privileged women, residents of a politically strategic city, express culturally sanctioned horror and pity for the poor radical from backwater Galilee. They play their role in the drama of Roman crucifixions. Jesus says to them, “Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.” Their sense of security is an illusion, and their false pity is damning. We are all both complicit and dehumanized by the culture of death.
 
 V. El sacrificio verdadero es un corazón penitente.  
 ℟. Dios, tú no despreciarás un corazón penitente y roto.
