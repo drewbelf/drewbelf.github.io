@@ -1,9 +1,9 @@
 ---
 layout: post
-title: commonplace book, March 2021
-date: 2021-03-31
+title: commonplace book---March 2021
+date: 2021-03-31 08:00
 summary: quotations collected during the month of March in A.D. 2021
-categories: theology
+categories: reading
 ---
 
 "Etc. is a sign of the process of thinking and writing. Etc. is a note within a note from the author to himself reminding him of the rest of a thought or an association so evident to him that he does not need to write it out. Etc. in a work released to a reader invites a witness, a closer witness to the process, the act of writing. Etc. invites or demands that the reader complete the thought, the association; etc. says that both writer and reader knows how this continues."  
@@ -63,3 +63,6 @@ to let it go."
 
 "The theologian is the person who dares to speak the Word of God in human terms."  
 ---M. D. Chenu
+
+"For the unity of this Tradition in all that affects the essentials of Catholicism does not seem to me an empty term, an abstract theological thesis which a careful examination of the facts would invalidate. On the contrary, the greater becomes one's familiarity with this immense army of witnesses, the closer one's association with this one or othat, the keener is the realization of how deep is the unity in which all those meet together who, faithful to the one Church, live by the same faith in the same Holy Spirit."  
+---Henri de Lubac
