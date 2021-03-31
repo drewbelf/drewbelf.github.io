@@ -17,6 +17,10 @@
 <lastmod>2021-03-29T15:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/reading/2021/03/31/commonplace/</loc>
+<lastmod>2021-03-31T08:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -30,5 +34,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/teaching/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
