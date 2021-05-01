@@ -1,8 +1,8 @@
 ---
 layout: post
 title: commonplace book
-date: 2021-04-30 08:00
-summary: quotations collected during the month of April in A.D. 2021
+date: 2021-04-30 17:00
+summary: quotations collected during the month of April, A.D. 2021
 categories: reading
 ---
 
@@ -43,3 +43,13 @@ when Christ rose from the underworld!"
 
 "In the three weeks that followed the Braves series and the big bust-out, the Mets won ten games, lost nine, and moved up into eighth place. In this tiny euphoric period, Met followers began to collect and exchange tidings, tidbits, and little moral tales that seemed to confirm the new vigor and startling bourgeois respectability of their old ne'er-do-wells."  
 ---Roger Angell, in May 1963
+
+"The sentence ‘How would the Trinity have been the Trinity if God had not created a world, and there had therefore been no creature Jesus to be the Son, or had let the fallen creation go, with the same result?’ is often taken for a real question. And here I do have a retraction to make. In the past I have sometimes responded to the supposed question, saying that God would presumably have somehow been the same triune God that he is, but that we can say nothing further about that ‘somehow’. I now think that even this response concedes too much to our unbaptized notion of time, by supposing that the collection of words quoted at the beginning of this paragraph actually makes a question which one can answer, however sparingly. It has now dawned on me that the putative question is nonsense, and so therefore is my previous attempt to respond to it."  
+---Robert W. Jenson, on the *Logos asarkos*
+
+"Saisi d'horreur, voici de nouveau que j'entends  
+L'inexorable appel de la voix merveilleuse. ..."  
+---Paul Claudel
+
+"There is no satisfactory explanation of style, no infallible guide to good writing, no assurance that a person who thinks clearly will be able to write clearly, no key that unlocks the door, no inflexible rule by which the young writer may shape his course. He will often find himself steering by stars that are disturbingly in motion."  
+---William Strunk, Jr. & E.B. White

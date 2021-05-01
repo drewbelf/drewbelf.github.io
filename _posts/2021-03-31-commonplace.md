@@ -2,7 +2,7 @@
 layout: post
 title: commonplace book
 date: 2021-03-31 08:00
-summary: quotations collected during the month of March in A.D. 2021
+summary: quotations collected during the month of March, A.D. 2021
 categories: reading
 ---
 
