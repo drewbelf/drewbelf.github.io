@@ -64,5 +64,5 @@ to let it go."
 "The theologian is the person who dares to speak the Word of God in human terms."  
 ---M. D. Chenu
 
-"For the unity of this Tradition in all that affects the essentials of Catholicism does not seem to me an empty term, an abstract theological thesis which a careful examination of the facts would invalidate. On the contrary, the greater becomes one's familiarity with this immense army of witnesses, the closer one's association with this one or othat, the keener is the realization of how deep is the unity in which all those meet together who, faithful to the one Church, live by the same faith in the same Holy Spirit."  
+"For the unity of this Tradition in all that affects the essentials of Catholicism does not seem to me an empty term, an abstract theological thesis which a careful examination of the facts would invalidate. On the contrary, the greater becomes one's familiarity with this immense army of witnesses, the closer one's association with this one or that, the keener is the realization of how deep is the unity in which all those meet together who, faithful to the one Church, live by the same faith in the same Holy Spirit."  
 ---Henri de Lubac
