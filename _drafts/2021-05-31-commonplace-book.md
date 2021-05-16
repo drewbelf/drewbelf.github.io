@@ -8,3 +8,6 @@ categories: reading
 
 "The greatness of scholasticism was that it calmly overturned the old formulas while making the least possible change in their elegant outward appearance."  
 ---Henri de Lubac, SJ
+
+"Hercule Poirot does not run the risk of disarranging his costume without being sure of attaining his object. To do so would be ridiculous and absurd. I am never ridiculous."  
+---Agatha Christie
