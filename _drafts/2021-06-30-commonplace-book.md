@@ -36,3 +36,6 @@ Slouches towards Bethlehem to be born?"
 
 "To take the doctrine of the Trinity seriously is to say that divinity is now found in people, that they create their own destiny in virtue of his divinity. It is to say that the picture of the prearranged plan worked out by God up there, to which we must conform, is only a provisional picture, an inadequate one. There is no heaven waiting for us; it is we who will create heaven, but only because of the divine life we already have within us… We help to create heaven by failing to make it. The suggestion is paradoxical. But that is what the crucifixion meant. Jesus failed and that is how the kingdom was established."\
 ---Herbert McCabe, OP
+
+"For eight years now, our country has clung to the rhetoric of hope; we've repeatedly been told that it is our aspirations that define us, that our best days are still to come. But it is just as true today that we are the sum of all that we continue to ignore, all that we've buried, all the skeletons we refuse to name out of fear, anger, and shame. Writers can remind a society that these ghosts are alive, that they never pass into the past, and that when they cease to be remembered, the whirlwind that [John Edgar] Wideman speaks of can grow, sometimes suddenly, into a howl capable of tearing our living bonds apart."\
+---Jesse McCarthy, in 2016
