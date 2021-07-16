@@ -1,6 +1,6 @@
 ---
 layout: post
-title: review of *Ecstasy in the Classroom*
+title: review of Ecstasy in the Classroom
 date: 2021-07-16 09:00
 summary: trance, self, and the academic profession in medieval Paris
 categories: theology
