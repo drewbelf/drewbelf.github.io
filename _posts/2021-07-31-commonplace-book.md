@@ -21,12 +21,12 @@ categories: reading
 "In this final scene Roupenian depicts well (to my mind it was probably the best moment in the story) how shame and regret at what cannot be undone can turn into further violence---when one, having lost all hope of undoing the damage done, doubles down."\
 ---Anastasia Berg, [on](https://thepointmag.com/criticism/i-am-madame-bovary/) ["Cat Person"](https://www.newyorker.com/magazine/2017/12/11/cat-person)
 
-"... Awake, his wounds\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"... Awake, his wounds\
 bleeding still, his foot upon the tomb, Christ\
 who bore our life to its most wretched end,\
 having thrust off like a blanket the heavy lid,\
 stands. ...\
-. . . . . .\
+. . . . . . . . .\
 And we who were sleeping, seeking the dead\
 among the dead, dare to be awake. We who see\
 see we are forever seen, by sight have been\
