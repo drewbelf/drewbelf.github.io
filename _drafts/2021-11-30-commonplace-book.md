@@ -1,8 +1,8 @@
 ---
 layout: post
 title: commonplace book
-date: 2021-08-31 17:00
-summary: quotations collected between the months of August and October, A.D. 2021
+date: 2021-11-30 17:00
+summary: quotations collected between the months of August and November, A.D. 2021
 categories: reading
 ---
 
@@ -22,4 +22,7 @@ categories: reading
 ---Leonard Cohen, on Jesus
 
 "Poverty is a strange and elusive thing. I have tried to write about it, its joys and its sorrows, for thirty years now; and I could probably write about it for another thirty without conveying what I feel about it as well as I would like. I condemn poverty and I advocate it; poverty is simple and complex at once; it is a social phenomenon and a personal matter. Poverty is an elusive thing, and a paradoxical one. We need always to be thinking and writing about it, for if we are not among its victims its reality fades from us. We must talk about poverty because people insulated by their own comfort lose sight of it."\
+---Dorothy Day
+
+"This and other facts seem to me to point more strongly than ever to the importance of voluntary poverty today. At least we can avoid being comfortable through the exploitation of others. And at least we can avoid physical wealth as the result of a war economy. There may be ever-improving standards of living in the United States, with every worker eventually owning his own home and driving his own car; but our whole modern economy is based on preparation for war, and this surely is one of the great arguments for poverty in our time. If the comfort one achieves results in the death of millions in the future, then that comfort shall be duly paid for. Indeed, to be literal, contributing to the war (misnamed 'defense') effort is very difficult to avoid. If you work in a textile mill making cloth, or in a factory making dungarees or blankets, your work is still tied up with war. If you raise food or irrigate the land to raise food, you may be feeding troops or liberating others to serve as troops. If you ride a bus you are paying taxes. Whatever you buy is taxed, so that you are, in effect, helping to support the state's preparations for war exactly to the extent of your attachment to worldly things of whatever kind."\
 ---Dorothy Day
