@@ -41,6 +41,10 @@
 <lastmod>2021-07-31T17:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/reading/2021/11/30/commonplace-book/</loc>
+<lastmod>2021-11-30T17:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -48,6 +52,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/now/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>
