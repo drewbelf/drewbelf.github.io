@@ -8,7 +8,6 @@ url:         "andrewbelfield.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - now.md
  - teaching.md
  - research.md
  - cv.md
