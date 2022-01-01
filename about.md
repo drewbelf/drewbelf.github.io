@@ -7,7 +7,7 @@ tags: about
 
 ![me](/images/me.jpg)
 
-I am Andrew Gertner Belfield, a theologian who specializes in medieval theology, christology, and franciscan theology. I teach at [St. Bonaventure University](https://www.sbu.edu/) as an assistant professor in the [Department of Theology and Franciscan Studies](https://www.sbu.edu/academics/theology-and-franciscan-studies). If you're interested in learning more about my research you can look at my [research page](/research/) or my full *[curriculum vitae](http://andrewbelfield.com/cv/)*.
+I am Andrew Gertner Belfield, a theologian who specializes in medieval theology, christology, and franciscan theology. I teach at [St. Bonaventure University](https://www.sbu.edu/) as an assistant professor in the [Department of Theology and Franciscan Studies](https://www.sbu.edu/academics/theology-and-franciscan-studies). I say a bit about how I understand my role as a teacher [here](/teaching/), if you're interested; as for my research, you can look at my [research page](/research/) or my full *[curriculum vitae](http://andrewbelfield.com/cv/)*.
 
 For more of what's capturing my interest at the moment, see my [now](/now/) page.
 
