@@ -13,4 +13,6 @@ I'm currently preparing for publication a monograph on the christology of the *S
 
 Alongside this research, I'm also in the process of translating Book III of Alexander of Hales's *Glossa* on Peter Lombard's *Four Books of Sentences* for [Dallas Medieval Texts & Translations](https://dallasmedievaltexts.org/alexander-of-hales-project/). I'm producing this translation in collaboration with [Eric Mabry](http://www.stmarys.edu/seminary/faculty/dr-eric-mabry/) of St. Mary's Seminary and University. Alexander was among the first professors at the University of Paris to incorporate the Lombard's *Sentences* into his curriculum, making him an important and authoritative teacher of what would become the standard textbook for theologians during the medieval period.
 
+I also serve the journal *[Franciscan Studies](https://www.franciscanpublications.com/pages/journals)* as its book review editor. If you have a title you would like reviewed in *Franciscan Studies* or if you would like to review a title, please contact me at abelfiel at sbu dot edu.
+
 The image here, taken from a 1647 edition of a commentary on the Apocalypse attributed to Alexander of Hales, depicts Alexander teaching Thomas Aquinas and Bonaventure.
