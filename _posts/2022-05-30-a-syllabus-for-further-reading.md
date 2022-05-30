@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a syllabus for further reading
-date: 2022-02-01 12:00
+date: 2022-05-30 12:00
 summary: selected texts in catholic theology
 categories: theology
 ---
