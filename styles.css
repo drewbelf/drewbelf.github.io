@@ -1,7 +1,8 @@
-{
-	font-family: 'Noto Serif', serif;
-	font-size: 1.0rem;
-	line-height: 1.5rem;
+* {
+	font-family: 'PT Serif', serif ;
+	font-size: 1.1rem ;
+	line-height: 1.25rem ;
+	font-kerning: normal ;
 }
 
 main {
@@ -23,6 +24,7 @@ a {
 
 	span, span strong {
 	font-size: 2rem;
+	font-kerning: auto ;
 }
 
 img {
