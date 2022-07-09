@@ -27,6 +27,15 @@ a {
 	font-kerning: auto ;
 }
 
+#email {
+	
+	font-family: 'Source Code Pro', Consolas, monospace;
+	font-size: inherit ;
+	line-height: inherit ;
+	font-kerning: inherit ;
+
+}
+
 img {
 	width: auto ;
 	max-width: 100% ;
