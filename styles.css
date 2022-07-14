@@ -23,8 +23,12 @@ a {
 	color: #8a100b;
 }
 
-a {
+a:hover {
 	text-decoration: underline;
+}
+
+a:active {
+	color: #828282;
 }
 
 	span, span strong {
