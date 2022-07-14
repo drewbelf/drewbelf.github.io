@@ -21,6 +21,9 @@ main {
 a {
 	text-decoration: none;
 	color: #8a100b;
+}
+
+a {
 	text-decoration: underline;
 }
 
