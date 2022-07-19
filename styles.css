@@ -23,6 +23,14 @@ a {
 	color: #8a100b;
 }
 
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	color: #828282;
+}
+
 	span, span strong {
 	font-size: 2rem;
 	font-kerning: auto ;
