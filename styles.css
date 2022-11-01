@@ -4,7 +4,8 @@
 	font-size: 1rem ;
 	line-height: 1.25rem ;
 	font-kerning: normal ;
-	font-display: swap;
+	font-display: swap ;
+	src: local('Garamond'), url(https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700)
 }
 
 main {
