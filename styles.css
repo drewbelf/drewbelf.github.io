@@ -55,8 +55,8 @@ img {
 }
 
 img.align-right {
-	width: 300px ;
-	max-width: 100% ;
+	width: auto ;
+	max-width: 300px ;
 	height: auto ;
 	margin: 25px ;
 	float: right;
