@@ -11,7 +11,7 @@
 main {
 	max-width: 680px; /* 680px is about 85 characters */
 	position: relative; /* center main */
-	margin: 40px auto 80px 25%; /* top, right, bottom, left margins */
+	margin: 40px auto 80px auto; /* top, right, bottom, left margins */
 }
 
 /* set breakpoint to add side padding any time screen is < 800 */
