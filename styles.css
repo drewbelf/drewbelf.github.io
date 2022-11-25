@@ -7,15 +7,13 @@
 }
 
 main {
-	max-width: 680px; /* 680px is about 85 characters */
-	position: relative; /* center main */
-	margin: 40px auto 80px auto; /* top, right, bottom, left margins */
+	max-width: 680px; /* i.e., 85 characters */
+	position: relative;
+	margin: 50px auto 100px auto; /* top, right, bottom, left margins */
 }
 
-/* set breakpoint to add side padding any time screen is < 800 */
-
 @media only screen and (max-width: 680px) {
-	main { padding: 0 20px; }
+	main { padding: 0 25px; }
 }
 
 a {
@@ -39,7 +37,7 @@ span, span strong {
 
 #email {
 	
-	font-family: 'Source Code Pro', Consolas, monospace;
+	font-family: 'Source Code Pro', monospace;
 	font-size: inherit ;
 	line-height: inherit ;
 	font-kerning: inherit ;
