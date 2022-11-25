@@ -1,11 +1,9 @@
 * {
 	font-family: 'PT Serif', serif ;
-	font-variant-numeric: oldstyle-nums ;
 	font-size: 1rem ;
 	line-height: 1.25rem ;
 	font-kerning: normal ;
 	font-display: swap ;
-	src: local('Garamond'), url(https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700)
 }
 
 main {
@@ -33,7 +31,8 @@ a:active {
 	color: #828282;
 }
 
-	span, span strong {
+span, span strong {
+	font: 'PT Sans', serif ;
 	font-size: 2rem;
 	font-kerning: auto ;
 }
