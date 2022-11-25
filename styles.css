@@ -7,13 +7,13 @@
 }
 
 main {
-	max-width: 40em; /* instead of 680px (slightly wider) */
+	max-width: 40em; /* instead of 680px (slightly narrower) */
 	position: relative;
-	margin: 50px auto 100px auto;
+	margin: 3em auto 6em auto;
 }
 
-@media only screen and (max-width: 680px) {
-	main { padding: 0 25px; }
+@media only screen and (max-width: 40em) {
+	main { padding: 0 1em; }
 }
 
 span.heading {
