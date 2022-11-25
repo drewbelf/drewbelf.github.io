@@ -29,7 +29,7 @@ a:active {
 	color: #828282;
 }
 
-span, span strong {
+span {
 	font-family: 'PT Sans', sans-serif ;
 	font-size: 2rem;
 	font-kerning: auto ;
