@@ -32,7 +32,7 @@ a:active {
 }
 
 span, span strong {
-	font-family: 'PT Sans', serif ;
+	font-family: 'PT Sans', sans-serif ;
 	font-size: 2rem;
 	font-kerning: auto ;
 }
