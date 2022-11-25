@@ -7,13 +7,25 @@
 }
 
 main {
-	max-width: 680px; /* i.e., 85 characters */
+	max-width: 40em; /* instead of 680px (slightly wider) */
 	position: relative;
-	margin: 50px auto 100px auto; /* top, right, bottom, left margins */
+	margin: 50px auto 100px auto;
 }
 
 @media only screen and (max-width: 680px) {
 	main { padding: 0 25px; }
+}
+
+span.heading {
+	font-family: 'PT Sans', sans-serif ;
+	font-size: 2rem;
+	font-kerning: auto ;
+}
+
+span.keyword {
+	font-family: 'PT Sans', sans-serif ;
+	font-size: 1.25rem;
+	font-kerning: auto ;
 }
 
 a {
@@ -29,19 +41,11 @@ a:active {
 	color: #828282;
 }
 
-span {
-	font-family: 'PT Sans', sans-serif ;
-	font-size: 2rem;
-	font-kerning: auto ;
-}
-
 #email {
-	
 	font-family: 'Source Code Pro', monospace;
 	font-size: inherit ;
 	line-height: inherit ;
 	font-kerning: inherit ;
-
 }
 
 img {
