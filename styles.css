@@ -18,9 +18,9 @@ main {
 
 span.title {
 	font-family: 'PT Serif', serif ;
-	font-size: 2.25rem;
+	font-size: 2rem;
 	font-kerning: auto ;
-line-height: 1.75rem ;
+line-height: 1.5rem ;
 }
 
 span.heading {
