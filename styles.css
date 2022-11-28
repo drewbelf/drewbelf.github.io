@@ -16,17 +16,22 @@ main {
 	main { padding: 0 1em; }
 }
 
-span.heading {
+span.title {
 	font-family: 'PT Serif', serif ;
 	font-size: 2.25rem;
 	font-kerning: auto ;
 line-height: 1.75rem ;
 }
 
-span.keyword {
+span.heading {
 	font-family: 'PT Serif', serif ;
 	font-size: 1.5rem;
 	font-kerning: auto ;
+}
+
+span.keyword {
+font-weight: 700 ;
+
 }
 
 a {
