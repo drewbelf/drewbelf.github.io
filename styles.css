@@ -1,5 +1,5 @@
 * {
-	font-family: 'PT Sans', sans-serif ;
+	font-family: 'Ubuntu', sans-serif ;
 	font-size: 1.05rem ;
 	line-height: 1.1rem ;
 	font-kerning: normal ;
@@ -30,8 +30,7 @@ span.heading {
 }
 
 span.keyword {
-font-weight: 700 ;
-
+	font-weight: 700 ;
 }
 
 a {
