@@ -1,9 +1,10 @@
 main {
 	max-width: 40em; /* instead of 680px (slightly narrower) */
+	margin: 3em auto 6em auto ;
 	position: relative;
 }
 
-p {
+* {
 	font-family: 'PT Serif', serif ;
 	font-size: 1rem ;
 	line-height: 1.2rem ;
@@ -53,8 +54,8 @@ a:active {
 }
 
 figure {
-	width: auto ;
-	max-width: 100% ;
+	float: center;
+	width: 100% ;
 	height: auto ;
 	max-height: 95vh ;
 }
