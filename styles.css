@@ -67,3 +67,9 @@ img.align-right {
 	margin: 25px ;
 	float: right;
 }
+
+figcaption {
+	color: #828282;
+	font-size: 0.8rem;
+	text-align: left;
+}
