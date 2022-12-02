@@ -13,14 +13,6 @@ p {
 
 @media only screen and (max-width: 40em) {
 	main { padding: 0 1em; }
-	figure {
-		margin: 1em ;
-	}
-	figure.align-right {
-		float: center;
-		width: 100% ;
-		margin: 1em ;
-	}
 }
 
 span.title {
@@ -80,6 +72,7 @@ figure.align-right {
 	width: auto ;
 	max-width: 300px ;
 	height: auto ;
+	max-height: 80vh ;
 	margin: 25px ;
 	float: right;
 }
@@ -88,6 +81,7 @@ img {
 	width: auto ;
 	max-width: 100% ;
 	height: auto ;
+	max-height: 80vh ;
 }
 
 figcaption {
