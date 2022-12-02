@@ -64,7 +64,7 @@ figure {
 	width: 100% ;
 	height: auto ;
 	max-height: 80vh ;
-	margin: 0 ;
+	margin: 2rem 0 ;
 	padding: 0 ;
 }
 
@@ -78,6 +78,7 @@ figure.align-right {
 }
 
 img {
+	float: center ;
 	width: auto ;
 	max-width: 100% ;
 	height: auto ;
