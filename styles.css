@@ -68,7 +68,7 @@ figure {
 	margin-left: auto ;
 	margin-right: auto ;
 	display: block ;
-	margin-bottom: 3rem ;
+	margin-bottom: 1rem ;
 }
 
 figure.align-right {
@@ -96,4 +96,5 @@ figcaption {
 	color: #828282;
 	font-size: 0.8rem;
 	text-align: left;
+	margin-bottom: 1rem;
 }
