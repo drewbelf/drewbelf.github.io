@@ -60,7 +60,8 @@ a:active {
 }
 
 figure {
-	width: 100% ;
+	width: auto ;
+	max-width: 100% ;
 	height: auto ;
 	max-height: 80vh ;
 	vertical-align: middle ;
@@ -79,7 +80,8 @@ figure.align-right {
 }
 
 img {
-	width: 100% ;
+	width: auto ;
+	max-width: 100% ;
 	height: auto ;
 	max-height: 80vh ;
 	vertical-align: middle ;
