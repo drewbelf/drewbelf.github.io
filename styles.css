@@ -1,6 +1,6 @@
 main {
 	max-width: 40em; /* instead of 680px (slightly narrower) */
-	margin: 3em auto 6em auto ;
+	margin: 3em auto 6em auto ; /* top right bottom left */
 	position: relative;
 }
 
@@ -82,7 +82,7 @@ img {
 	max-width: 100% ;
 	height: auto ;
 	max-height: 80vh ;
-	margin: auto ;
+	margin: 0 auto ; /* top/bottom & right/left* */
 	float: center ;
 }
 
