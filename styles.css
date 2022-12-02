@@ -73,11 +73,12 @@ figure {
 
 figure.align-right {
 	width: auto ;
-	max-width: 300px ;
+	max-width: 50% ;
 	height: auto ;
 	max-height: 80vh ;
-	margin: 25px ;
 	float: right;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
 
 img {
