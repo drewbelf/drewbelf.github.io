@@ -32,6 +32,12 @@ span.keyword {
 	font-weight: 700 ;
 }
 
+ul {
+	font-family: inherit ;
+	font-size: inherit ;
+	line-height: inherit ;
+	font-kerning: inherit ;
+
 a {
 	text-decoration: none;
 	color: #8a100b;
