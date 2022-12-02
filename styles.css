@@ -60,12 +60,12 @@ a:active {
 }
 
 figure {
-	float: center;
 	width: 100% ;
 	height: auto ;
 	max-height: 80vh ;
 	margin: 2rem 0 ;
 	padding: 0 ;
+	float: center;
 }
 
 figure.align-right {
@@ -78,12 +78,12 @@ figure.align-right {
 }
 
 img {
-	float: center ;
 	width: auto ;
 	max-width: 100% ;
 	height: auto ;
 	max-height: 80vh ;
 	margin: auto ;
+	float: center ;
 }
 
 figcaption {
