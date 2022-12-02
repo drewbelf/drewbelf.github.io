@@ -68,6 +68,7 @@ figure {
 	margin-left: auto ;
 	margin-right: auto ;
 	display: block ;
+	margin-bottom: 3rem ;
 }
 
 figure.align-right {
