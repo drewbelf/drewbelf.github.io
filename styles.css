@@ -58,6 +58,8 @@ figure {
 	width: 100% ;
 	height: auto ;
 	max-height: 95vh ;
+	margin: 0 ;
+	padding: 0 ;
 }
 
 img {
