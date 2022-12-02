@@ -62,19 +62,21 @@ figure {
 	padding: 0 ;
 }
 
-img {
-	width: auto ;
-	max-width: 100% ;
-	height: auto ;
-}
-
-img.align-right {
+figure.align-right {
 	width: auto ;
 	max-width: 300px ;
 	height: auto ;
 	margin: 25px ;
 	float: right;
 }
+
+img {
+	width: auto ;
+	max-width: 100% ;
+	height: auto ;
+}
+
+
 
 figcaption {
 	font-family: 'PT Serif', serif ;
