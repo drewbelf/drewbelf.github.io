@@ -20,14 +20,13 @@ span.title {
 	font-family: 'PT Serif', serif ;
 	font-size: 2rem;
 	font-kerning: auto ;
-line-height: 2.4rem ;
+	line-height: 2.4rem ;
 }
 
 span.heading {
 	font-family: 'PT Serif', serif ;
 	font-size: 1.5rem;
 	font-kerning: auto ;
-line-height: 1.8rem ;
 }
 
 span.keyword {
