@@ -6,8 +6,8 @@ main {
 
 p {
 	font-family: 'PT Serif', serif ;
-	font-size: 1rem ;
-	line-height: 1.2rem ;
+	font-size: 100% ;
+	line-height: 120% ;
 	font-kerning: normal ;
 }
 
@@ -17,14 +17,13 @@ p {
 
 span.title {
 	font-family: 'PT Serif', serif ;
-	font-size: 2rem;
+	font-size: 200% ;
 	font-kerning: auto ;
-	line-height: 2.4rem ;
 }
 
 span.heading {
 	font-family: 'PT Serif', serif ;
-	font-size: 1.5rem;
+	font-size: 150% ;
 	font-kerning: auto ;
 }
 
@@ -34,8 +33,8 @@ span.keyword {
 
 ul {
 	font-family: 'PT Serif', serif ;
-	font-size: 1rem ;
-	line-height: 1.2rem ;
+	font-size: 100% ;
+	line-height: 120% ;
 	font-kerning: normal ;
 }
 
@@ -94,7 +93,7 @@ img {
 figcaption {
 	font-family: 'PT Serif', serif ;
 	color: #828282;
-	font-size: 0.8rem;
+	font-size: 80% ;
 	text-align: left;
 	height: auto ;
 }
