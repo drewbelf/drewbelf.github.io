@@ -11,6 +11,10 @@ main {
 	margin-right: 1em;
 	margin-left: 1em;
 	position: relative;
+	font-family: 'PT Serif', serif ;
+	font-size: 100% ;
+	line-height: 120% ;
+	font-kerning: normal ;
 }
 
 nav {
