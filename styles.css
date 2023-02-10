@@ -11,16 +11,13 @@ main {
 	margin-right: 1em;
 	margin-left: 1em;
 	position: relative;
-	font-family: 'PT Serif', serif ;
-	font-size: 100% ;
-	line-height: 120% ;
-	font-kerning: normal ;
 }
 
 nav {
 	margin-top: 3em ;
 	margin-right: 3%;
 	margin-left: 1.5%;
+	font-family: 'PT Serif', serif ;
 	text-align: right;
 	max-width: 13em;
 	width: auto;
