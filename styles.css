@@ -3,6 +3,7 @@ body {
 	margin: 3em auto 6em auto;
 	width: auto;
 	max-width: fit-content;
+	font-family: 'PT Serif', serif;
 }
 
 main {
