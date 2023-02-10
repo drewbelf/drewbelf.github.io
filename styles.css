@@ -144,4 +144,6 @@ figcaption {
 		text-align: center;
 		margin-right: auto;
 		margin-left: auto;
+width: auto ;
+max-width: 100% ;
 	}
