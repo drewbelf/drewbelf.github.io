@@ -132,7 +132,7 @@ figcaption {
 	height: auto ;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-device-width: 480px) {
 	body { display: block; 
 		position: relative;
 		margin-right: 1em;
