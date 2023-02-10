@@ -1,7 +1,32 @@
+body {
+	display: flex;
+	margin: 3em auto 6em auto;
+	width: auto;
+	max-width: fit-content;
+}
+
 main {
 	max-width: 40em; /* instead of 680px (slightly narrower) */
-	margin: 3em auto 6em auto ; /* top right bottom left */
+	/*margin: 3em auto 6em 20% ; /* top right bottom left */
+	margin-right: 1em;
+	margin-left: 1em;
 	position: relative;
+}
+
+nav {
+	margin-top: 3em ;
+	margin-right: 3%;
+	margin-left: 1.5%;
+	text-align: right;
+	max-width: 13em;
+	width: auto;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	vertical-align: middle;
+	height: 100%;
+	position: sticky;
+	top: 0;
 }
 
 p {
@@ -11,14 +36,18 @@ p {
 	font-kerning: normal ;
 }
 
-@media only screen and (max-width: 40em) {
-	main { padding: 0 1em; }
-}
-
 span.title {
 	font-family: 'PT Serif', serif ;
-	font-size: 200% ;
+	font-size: 300% ;
+	line-height: 100%;
 	font-kerning: auto ;
+}
+
+span.subtitle {
+	font: inherit;
+	font-size: 100%;
+	font-kerning: auto;
+	color: #828282;
 }
 
 span.heading {
@@ -41,6 +70,11 @@ ul {
 a {
 	text-decoration: none;
 	color: #8a100b;
+}
+
+a.home {
+	color:#000000;
+	display: block;
 }
 
 a:hover {
@@ -83,7 +117,7 @@ img {
 	width: auto ;
 	max-width: 100% ;
 	height: auto ;
-	max-height: 80vh ;
+	max-height: 90vh ;
 	vertical-align: middle ;
 	margin-left: auto ;
 	margin-right: auto ;
@@ -97,3 +131,14 @@ figcaption {
 	text-align: left;
 	height: auto ;
 }
+
+@media only screen and (max-width: 400px) {
+	body { display: block; 
+		position: relative;
+		margin-right: 1em;
+		margin-left: 1em;}
+	nav { position: inherit; 
+		text-align: center;
+		margin-right: auto;
+		margin-left: auto;
+	}
