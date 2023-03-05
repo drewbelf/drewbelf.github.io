@@ -7,18 +7,15 @@ body {
 }
 
 main {
-	max-width: 40em; /* instead of 680px (slightly narrower) */
-	/*margin: 3em auto 6em 20% ; /* top right bottom left */
+	width: 40em; /* instead of 680px (slightly narrower) */
 	margin-right: 1em;
 	margin-left: 1em;
 	position: relative;
 }
 
 nav {
-	margin-top: 3em ;
 	margin-right: 3%;
 	margin-left: 1.5%;
-	font-family: 'PT Serif', serif ;
 	text-align: right;
 	max-width: 13em;
 	width: auto;
@@ -32,28 +29,23 @@ nav {
 }
 
 p {
-	font-family: 'PT Serif', serif ;
-	font-size: 100% ;
 	line-height: 120% ;
 	font-kerning: normal ;
 }
 
 span.title {
-	font-family: 'PT Serif', serif ;
 	font-size: 300% ;
 	line-height: 100%;
 	font-kerning: auto ;
 }
 
 span.subtitle {
-	font: inherit;
 	font-size: 100%;
 	font-kerning: auto;
 	color: #828282;
 }
 
 span.heading {
-	font-family: 'PT Serif', serif ;
 	font-size: 150% ;
 	font-kerning: auto ;
 }
@@ -63,14 +55,12 @@ span.keyword {
 }
 
 ul {
-	font-family: 'PT Serif', serif ;
 	font-size: 100% ;
 	line-height: 120% ;
 	font-kerning: normal ;
 }
 
 a {
-	font-family: 'PT Serif', serif ;
 	text-decoration: none;
 	color: #8a100b;
 }
@@ -128,10 +118,9 @@ img {
 }
 
 figcaption {
-	font-family: 'PT Serif', serif ;
 	color: #828282;
 	font-size: 80% ;
-	text-align: left;
+	text-align: center;
 	height: auto ;
 }
 
