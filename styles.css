@@ -1,5 +1,14 @@
+:root {
+	--color-dark: #000000 ;
+	--color-light: #ffffff ;
+	--color-primary: #8a100b ;
+	--color-secondary: #828282 ;
+	}
+
 body {
 	display: flex;
+	background: var(--color-light);
+	color: var(--color-dark);
 	margin: 3em auto 6em auto;
 	width: auto;
 	max-width: fit-content;
@@ -7,7 +16,7 @@ body {
 }
 
 main {
-	width: 40em; /* instead of 680px (slightly narrower) */
+	width: 65ch; /* instead of 680px (slightly narrower) */
 	max-width: 100%;
 	/*margin-right: 1em;
 	margin-left: 1em;*/
@@ -43,7 +52,7 @@ span.title {
 span.subtitle {
 	font-size: 100%;
 	font-kerning: auto;
-	color: #828282;
+	color: var(--color-secondary);
 }
 
 span.heading {
@@ -62,21 +71,30 @@ ul {
 }
 
 a {
-	text-decoration: none;
-	color: #8a100b;
+	text-decoration-color: var(--color-primary);
+	color: currentColor;
+	text-decoration-thickness: 0.2ex;
 }
 
 a.home {
-	color:#000000;
+	color: var(--color-dark);
 	display: block;
+	text-decoration: none;
 }
 
+a.nav {
+	color: var(--color-dark) ;
+	display: block ;
+	text-decoration: none ;
+	font-size: 110%;
+	}
+
 a:hover {
-	text-decoration: underline;
+	color: var(--color-primary);
 }
 
 a:active {
-	color: #828282;
+	color: var(--color-secondary);
 }
 
 #email {
@@ -119,7 +137,7 @@ img {
 }
 
 figcaption {
-	color: #828282;
+	color: var(--color-secondary);
 	font-size: 80% ;
 	text-align: center;
 	height: auto ;
