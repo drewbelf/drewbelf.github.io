@@ -6,7 +6,6 @@
 	}
 
 body {
-	display: flex;
 	background: var(--color-light);
 	color: var(--color-dark);
 	margin: 3em auto 6em auto;
@@ -16,26 +15,10 @@ body {
 }
 
 main {
-	width: 70ch;
-	max-width: 100%;
+	max-width: 70ch;
 	/*margin-right: 1em;
 	margin-left: 1em;*/
 	position: relative;
-}
-
-nav {
-	margin-right: 3%;
-	margin-left: 1.5%;
-	text-align: right;
-	max-width: 13em;
-	width: auto;
-	display: flex;
-	justify-content: space-between;
-	flex-direction: column;
-	vertical-align: middle;
-	height: 100%;
-	position: sticky;
-	top: 0;
 }
 
 p {
@@ -70,6 +53,26 @@ ul {
 	font-kerning: normal ;
 }
 
+.navbar {
+	list-style-type: none;
+	margin-bottom: 1em;
+	padding: 3px 0px;
+	overflow: hidden;
+	display: flex;
+	justify-content: space-between;
+}
+
+.navbar li {
+	float: left;
+	
+
+}
+
+.navbar li a {
+	display: block;
+	padding-bottom: 20px;
+}
+
 a {
 	text-decoration-color: var(--color-primary);
 	color: currentColor;
@@ -78,7 +81,11 @@ a {
 
 a.home {
 	color: var(--color-dark);
-	display: block;
+	text-decoration: none;
+}
+
+a.subtitle {
+	color: var(--color-secondary);
 	text-decoration: none;
 }
 
@@ -150,9 +157,11 @@ figcaption {
 		margin-left: 1em;
 		width: auto;
 		max-width: 100%;}
-	nav { position: inherit; 
+	.navbar {
+		flex-wrap: wrap;
+		justify-content: space-around ;
+		}
+	.navbar li {
+		flex-basis: 50%;
 		text-align: center;
-		margin-right: auto;
-		margin-left: auto;
-		width: auto ;
-		max-width: 100% ;}
+		}
