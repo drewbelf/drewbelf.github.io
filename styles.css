@@ -8,7 +8,7 @@
 body {
 	background: var(--color-light);
 	color: var(--color-dark);
-	margin: 3em auto 6em auto;
+	margin: 2em auto 4em auto;
 	width: auto;
 	max-width: fit-content;
 	font-family: 'PT Serif', serif;
@@ -53,30 +53,9 @@ ul {
 	font-kerning: normal ;
 }
 
-.navbar {
-	list-style-type: none;
-	margin-bottom: 1em;
-	padding: 3px 0px;
-	overflow: hidden;
-	display: flex;
-	justify-content: space-between;
-}
-
-.navbar li {
-	float: left;
-	
-
-}
-
-.navbar li a {
-	display: block;
-	padding-bottom: 20px;
-}
-
 a {
-	text-decoration-color: var(--color-primary);
-	color: currentColor;
-	text-decoration-thickness: 0.2ex;
+	color: var(--color-primary);
+	text-decoration: none;
 }
 
 a.home {
@@ -89,19 +68,23 @@ a.subtitle {
 	text-decoration: none;
 }
 
-a.nav {
-	color: var(--color-dark) ;
-	display: block ;
-	text-decoration: none ;
-	font-size: 110%;
-	}
+a.subtitle:active {
+	color:  var(--color-dark);
+}
+
+p.back {
+	text-align: right;
+}
 
 a:hover {
-	color: var(--color-primary);
+	text-decoration: underline;
+	text-decoration-color: currentColor;
 }
 
 a:active {
 	color: var(--color-secondary);
+	text-decoration: underline;
+	text-decoration-color: currentColor;
 }
 
 #email {
@@ -148,6 +131,8 @@ figcaption {
 	font-size: 80% ;
 	text-align: center;
 	height: auto ;
+	width: 80%;
+	margin:  auto;
 }
 
 @media only screen and (max-device-width: 480px) {
@@ -157,11 +142,3 @@ figcaption {
 		margin-left: 1em;
 		width: auto;
 		max-width: 100%;}
-	.navbar {
-		flex-wrap: wrap;
-		justify-content: space-around ;
-		}
-	.navbar li {
-		flex-basis: 50%;
-		text-align: center;
-		}
