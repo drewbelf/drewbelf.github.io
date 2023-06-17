@@ -135,6 +135,12 @@ figcaption {
 	margin:  auto;
 }
 
+footer {
+	color: var(--color-secondary);
+	font-size: 80% ;
+	padding-top: 3em ;
+}
+
 @media only screen and (max-device-width: 480px) {
 	body { display: block; 
 		position: relative;
