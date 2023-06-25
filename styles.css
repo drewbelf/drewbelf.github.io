@@ -69,7 +69,7 @@ a.subtitle {
 }
 
 a.subtitle:active {
-	color:  var(--color-dark);
+	color:  var(--color-primary);
 }
 
 p.back {
