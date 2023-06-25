@@ -1,7 +1,7 @@
 :root {
 	--color-dark: #000000 ;
 	--color-light: #ffffff ;
-	--color-primary: #8a100b ;
+	--color-primary: #8a100b; /*#8a100b is preference, but the contrast against color-dark is only about 2:1*/
 	--color-secondary: #828282 ;
 	}
 
@@ -79,6 +79,7 @@ p.back {
 a:hover {
 	text-decoration: underline;
 	text-decoration-color: currentColor;
+	text-decoration-thickness: from-font;
 }
 
 a:active {
