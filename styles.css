@@ -88,6 +88,10 @@ a:active {
 	text-decoration-color: currentColor;
 }
 
+a.gray-link { color: #828282; }
+a.gray-link:hover {text-decoration: underline; }
+a.gray-link:active {color: #8a100b; }
+
 #email {
 	font-family: 'Ubuntu Mono', monospace;
 	font-size: inherit ;
