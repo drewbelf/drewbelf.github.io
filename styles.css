@@ -1,7 +1,7 @@
 :root {
 	--color-dark: #000000 ;
 	--color-light: #ffffff ;
-	--color-primary: #8a100b; /*#8a100b is preference, but the contrast against color-dark is only about 2:1*/
+	--color-primary: #8a100b; /*the contrast against color-dark is only about 2:1*/
 	--color-secondary: #828282 ;
 	}
 
@@ -24,6 +24,10 @@ main {
 p {
 	line-height: 120% ;
 	font-kerning: normal ;
+}
+
+p.back {
+	text-align: right;
 }
 
 span.title {
@@ -54,8 +58,18 @@ ul {
 }
 
 a {
+	color: currentColor;
+	text-decoration: underline var(--color-primary);
+	text-underline-offset: 0.22em ;	
+}
+
+a:hover {
 	color: var(--color-primary);
-	text-decoration: none;
+}
+
+a:active {
+	color: var(--color-secondary);
+	text-decoration-color: var(--color-secondary) ;
 }
 
 a.home {
@@ -63,34 +77,26 @@ a.home {
 	text-decoration: none;
 }
 
-a.subtitle {
-	color: var(--color-secondary);
-	text-decoration: none;
+a.home:hover {
+	text-decoration: underline ;
+	text-underline-offset: auto ;
 }
 
-a.subtitle:active {
-	color:  var(--color-primary);
+a.home:active {
+	color: var(--color-primary) ;
 }
 
-p.back {
-	text-align: right;
+a.gray-link {
+	color: #828282;
+	text-decoration: none ;
 }
-
-a:hover {
+a.gray-link:hover {
 	text-decoration: underline;
-	text-decoration-color: currentColor;
-	text-decoration-thickness: from-font;
 }
 
-a:active {
-	color: var(--color-secondary);
-	text-decoration: underline;
-	text-decoration-color: currentColor;
+a.gray-link:active {
+	color: var(--color-primary);
 }
-
-a.gray-link { color: #828282; }
-a.gray-link:hover {text-decoration: underline; }
-a.gray-link:active {color: #8a100b; }
 
 #email {
 	font-family: 'Ubuntu Mono', monospace;
