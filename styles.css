@@ -26,6 +26,19 @@ p {
 	font-kerning: normal ;
 }
 
+p.header {
+	opacity: 0.33 ;
+	margin-bottom: 3em ;
+}
+
+p.header-home {
+	margin-bottom: 3em;
+}
+
+p.header:hover {
+	opacity: 1
+}
+
 p.back {
 	text-align: right;
 }
@@ -60,7 +73,8 @@ ul {
 a {
 	color: currentColor;
 	text-decoration: underline var(--color-primary);
-	text-underline-offset: 0.22em ;	
+	text-underline-offset: 0.22em ;
+	text-decoration-thickness: from-font ;
 }
 
 a:hover {
@@ -142,8 +156,9 @@ figcaption {
 	font-size: 80% ;
 	text-align: center;
 	height: auto ;
-	width: 80%;
-	margin:  auto;
+	width: 70%;
+	margin: auto;
+	margin-top: 0.3em ;
 }
 
 footer {
