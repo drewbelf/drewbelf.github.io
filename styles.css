@@ -12,6 +12,7 @@ body {
 	width: auto;
 	max-width: fit-content;
 	font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+	font-variant-ligatures: common-ligatures;
 }
 
 main {
