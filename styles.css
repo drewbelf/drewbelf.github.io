@@ -11,7 +11,7 @@ body {
 	margin: 2em auto 4em auto;
 	width: auto;
 	max-width: fit-content;
-	font-family: 'PT Serif', serif;
+	font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
 }
 
 main {
@@ -112,7 +112,7 @@ a.gray-link:active {
 }
 
 #email {
-	font-family: 'Ubuntu Mono', monospace;
+	font-family: 'Nimbus Mono PS', 'Courier New', monospace;
 	font-size: inherit ;
 	line-height: inherit ;
 	font-kerning: inherit ;
