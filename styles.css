@@ -113,7 +113,7 @@ a.gray-link:active {
 }
 
 #email {
-	font-family: 'Nimbus Mono PS', 'Courier New', monospace;
+	font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 	font-size: inherit ;
 	line-height: inherit ;
 	font-kerning: inherit ;
