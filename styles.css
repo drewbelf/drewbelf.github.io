@@ -8,7 +8,7 @@
 body {
 	background: var(--color-light);
 	color: var(--color-dark);
-	margin: 2em auto 4em auto;
+	margin: 4em auto 6em auto;
 	width: auto;
 	max-width: fit-content;
 	font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
@@ -45,7 +45,7 @@ p.back {
 }
 
 span.title {
-	font-size: 300% ;
+	font-size: 200% ;
 	line-height: 100%;
 	font-kerning: auto ;
 }
